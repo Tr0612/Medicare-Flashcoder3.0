@@ -8,7 +8,6 @@ import 'package:medicare/ui/login.dart';
 import 'package:medicare/ui/splash.dart';
 import 'package:splashscreen/splashscreen.dart';
 
-//TODO adminhom ui/home ui/utlis authhelper/
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
