@@ -1,1 +1,5 @@
-The medicare application brings Doctor and Patient closer virtually as well in reality.There is a lot of feature for doctor to keep track of their patient and appointment and the patient to keep track of their reports and prescription and to book appointments to consult their doctor.
+![screenshot](67510194-2520-42b4-b12b-207795635912.jpg)
+![screenshot](5a0565d3-0701-41d2-8cc2-a2ec3780b347.jpg)
+![screenshot](b396e4b2-a4a1-42de-a8e6-463aeee6a1fb.jpg)
+
+
