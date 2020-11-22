@@ -31,7 +31,10 @@ dependencies:
   carousel_pro:
   splashscreen:
   carousel_slider: ^1.3.0
-  sizer:
+  sizer:  
+  auto_size_text:
+  date_format:
+  
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
 
